@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Fitriana Damayanti / Site Title"
+title                    : "Fitriana"
 title_separator          : "-"
 name                     : &name "Fitriana Damayanti"
 description              : &description "personal description"

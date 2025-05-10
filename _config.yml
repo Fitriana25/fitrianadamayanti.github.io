@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Fitriana Damayanti"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Mars"
-  employer         : "Red Brick University"
+  bio              : "Human"
+  location         : "Yogyakarta, Indonesia"
+  employer         : "Universitas Gadjah Mada"
   uri              : # URL
   email            : "none@example.org" 
 
